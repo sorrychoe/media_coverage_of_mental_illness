@@ -1,0 +1,14 @@
+pandas
+numpy
+openpyxl
+bertopic
+hdbscan
+umap-learn
+sentence-transformers
+scikit-learn
+konlpy
+pyBigKinds
+tqdm
+wordcloud
+matplotlib
+seaborn
